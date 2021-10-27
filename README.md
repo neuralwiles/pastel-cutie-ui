@@ -1,27 +1,5 @@
-# Atom UI Theme Template
+# Pastel Cutie UI Theme
 
-This is a __starter template__ for creating an Atom UI theme.
+Just a cute pastel Atom UI theme for guys, gals, and nonbinary pals. This is intended to look nice with my Pastel Cutie Syntax Theme, pictured below, which you can find here oh GitHub or on the Atom theme store!
 
-This template only includes the __minimum of styling__ needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at [atom.io/themes](https://atom.io/themes/). Or you're always free to fork a theme that already comes close to your vision.
-
-Happy theming! 🚀
-
-
-## Getting started
-
-1. Fork this repository.
-2. Continue with step 2 from [Creating a UI Theme](http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-ui-theme)
-
-If you get stuck somewhere, feel free to create an [issue](https://github.com/atom-community/ui-theme-template/issues/new).
-
-ps. Don't forget to delete the above and edit the below in your own `README.md`.
-
-
----
-
-
-# My UI theme
-
-A short description of your theme.
-
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+![Syntax theme screenshot](pastel-cutie-screenshot.png)
